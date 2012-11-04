@@ -1,0 +1,17 @@
+{
+    "icons": {
+        "128": "128.png",
+        "16": "favicon.ico"
+    },
+    "intents": {
+        "http://webintents.org/share": [ {
+            "disposition": "inline",
+            "href": "facebook.html",
+            "title": "Share to Facebook",
+            "type": [ "text/uri-list" ]
+        } ]
+    },
+    "manifest_version": 2,
+    "name": "Share to Facebook",
+    "version": "0.0.1"
+}
