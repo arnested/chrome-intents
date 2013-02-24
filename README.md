@@ -13,3 +13,5 @@ but I missed [share intents](http://webintents.org/share) for
 [Yammer](https://www.yammer.com). So here they are.
 
 They might be a bit rough around the edges.
+
+Web Intents was [removed from Chrome version 24](https://plus.google.com/116171619992010691739/posts/gcXURKLN8bg) so this code is of no use any more.
